@@ -141,8 +141,8 @@ https://datastudio.google.com/reporting/e4528ba8-9c0e-4f2e-9c28-9d70980e45f5/pag
 
 ```
 ├── README.md
-├── sql/
-│   └── queries.sql
-└── data/
-    └── restaurant_clean.csv
+├── dashboard_preview.png
+├── restaurant_clean.csv
+└── sql/
+    └── queries.sql
 ```
