@@ -131,7 +131,7 @@ Este análisis se construyó sobre un dataset público. Aplicado a datos reales 
 
 ## Dashboard
 
-[Ver Dashboard / View Dashboard](#) ← reemplazar con el link de Looker Studio
+https://datastudio.google.com/reporting/e4528ba8-9c0e-4f2e-9c28-9d70980e45f5/page/RPAyF
 
 ---
 
