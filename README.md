@@ -133,6 +133,8 @@ Este análisis se construyó sobre un dataset público. Aplicado a datos reales 
 
 https://datastudio.google.com/reporting/e4528ba8-9c0e-4f2e-9c28-9d70980e45f5/page/RPAyF
 
+![Dashboard Preview](dashboard_preview.png)
+
 ---
 
 ## Estructura del Repositorio / Repository Structure
