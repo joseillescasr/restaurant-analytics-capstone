@@ -15,7 +15,7 @@
 
 ### Background
 
-I hold a degree in Mechanical Engineering from Tecnológico de Monterrey and a Food & Beverage Management certification from Canada. I have spent seven years working in high-end hospitality in New York, Toronto, and Granada — managing inventory, training staff, and coordinating operations under pressure.
+I hold a degree in Mechanical Engineering from Tecnológico de Monterrey in Mexico and a Food & Beverage Management certification from George Brown College in Toronto, Canada. I have spent seven years working in high-end hospitality in New York, Toronto, and Granada — managing inventory, training staff, and coordinating operations under pressure.
 
 This project was built at the intersection of those two worlds: analytical thinking from engineering applied to problems I have lived firsthand in restaurant operations. I did not choose this industry to appear relatable. I chose it because I understand the decisions behind the data.
 
@@ -74,7 +74,7 @@ This analysis was built on a public dataset. Applied to actual restaurant data, 
 
 ### Contexto
 
-Soy ingeniero mecánico egresado del Tecnológico de Monterrey con certificación en Food & Beverage Management en Canadá. Llevo siete años trabajando en hostelería de alto nivel en Nueva York, Toronto y Granada — gestionando inventarios, formando personal y coordinando operaciones bajo presión.
+Soy ingeniero mecánico egresado del Tecnológico de Monterrey en México con certificación en Food & Beverage Management por George Brown College en Toronto, Canadá. Llevo siete años trabajando en hostelería de alto nivel en Nueva York, Toronto y Granada — gestionando inventarios, formando personal y coordinando operaciones bajo presión.
 
 Este proyecto nació en la intersección de esos dos mundos: el razonamiento analítico de la ingeniería aplicado a problemas que he vivido de primera mano en operaciones de restaurante. No elegí este sector para resultar cercano. Lo elegí porque entiendo las decisiones que hay detrás de los datos.
 
