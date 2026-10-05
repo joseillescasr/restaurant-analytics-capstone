@@ -11,7 +11,7 @@
 
 ---
 
-## 🇬🇧 English
+##  English
 
 ### Background
 
@@ -70,7 +70,7 @@ This analysis was built on a public dataset. Applied to actual restaurant data, 
 
 ---
 
-## 🇪🇸 Español
+##  Español
 
 ### Contexto
 
