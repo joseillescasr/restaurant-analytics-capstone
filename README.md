@@ -1,9 +1,9 @@
-# 🍽️ Restaurant Operations Analytics | Análisis de Operaciones en Restauración
+#  Restaurant Operations Analytics | Análisis de Operaciones en Restauración
 
 **Author / Autor:** Jose Illescas Regalett  
 **Tools / Herramientas:** SQL · Google Sheets · Looker Studio  
 **Dataset:** Restaurant Sales - Dirty Data (Kaggle)  
-**Status / Estado:** Completed ✅
+**Status / Estado:** Completed 
 
 > *"Data without context is just noise. Seven years running restaurant operations across three countries gave me the context — this project gave it a structure."*
 >
