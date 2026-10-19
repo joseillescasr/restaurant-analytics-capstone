@@ -60,7 +60,7 @@ Executive-level dashboard with three KPI scorecards, revenue by category bar cha
 
 - **Main Dishes** generates nearly 3x more revenue than the next category at similar order volume — the margin gap is structural, not accidental
 - **Grilled Chicken** has the highest average ticket (45.47) with strong order frequency — an underleveraged asset in menu positioning and upselling
-- **Water and Coca Cola** rank in the top 5 by order count but generate minimal revenue — classic high-volume, low-value items that occupy inventory, staff time, and menu real estate
+- **Water and Coca Cola** rank in the top 10 by order count but generate minimal revenue — classic high-volume, low-value items that occupy inventory, staff time, and menu real estate
 - **2022 consistently outperformed 2023** across all months — a trend that warrants investigation in a real operational context
 - **6% of transactions have no payment method recorded** — a data capture failure that creates reconciliation work at end-of-shift and masks true payment behavior
 
@@ -119,7 +119,7 @@ Dashboard ejecutivo con tres KPIs principales, gráfico de barras de ingresos po
 
 - **Main Dishes** genera casi 3 veces más ingresos que la siguiente categoría con un volumen de órdenes similar — la brecha de margen es estructural, no casual
 - **Grilled Chicken** tiene el ticket medio más alto (45.47) con buena frecuencia de pedido — un activo infrautilizado en el posicionamiento de carta y la venta activa del equipo de sala
-- **Water y Coca Cola** están en el top 5 por número de pedidos pero generan ingresos mínimos — ítems de alto volumen y bajo valor que ocupan inventario, tiempo de servicio y espacio en carta
+- **Water y Coca Cola** están en el top 10 por número de pedidos pero generan ingresos mínimos — ítems de alto volumen y bajo valor que ocupan inventario, tiempo de servicio y espacio en carta
 - **2022 superó consistentemente a 2023** en todos los meses — una tendencia que en un contexto operativo real requeriría investigación inmediata
 - **El 6% de transacciones no tiene método de pago registrado** — un fallo de captura de datos que genera trabajo extra al cierre de caja y distorsiona el análisis de comportamiento de pago
 
